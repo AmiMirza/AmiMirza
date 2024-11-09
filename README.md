@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AmiMirza
+- 👋 Hi, I’m @AminaNoor
 - 👀 I’m interested in Development & Coding
 - 🌱 I’m currently learning React Native & js
 - 💞️ I’m looking to collaborate on these Technologies
